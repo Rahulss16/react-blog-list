@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## react-blog-list
+React application using with redux to showing list of blogs with users.
 
 ## Available Scripts
 
